@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\bin\Debug\lab.rab.2.exe.config
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\bin\Debug\lab.rab.2.exe
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\bin\Debug\lab.rab.2.pdb
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\obj\Debug\lab.rab.2.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\obj\Debug\lab.rab.2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\obj\Debug\lab.rab.2.exe
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\obj\Debug\lab.rab.2.pdb
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS\source\repos\lab.rab.2\lab.rab.2\obj\Debug\lab.rab.2.csproj.CopyComplete
